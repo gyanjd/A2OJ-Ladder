@@ -13,7 +13,7 @@
 |<ul><li>- [X] Done</li></ul>|6|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|7|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|8|[Cookies](http://codeforces.com/problemset/problem/129/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|9|[Candy Bags](http://codeforces.com/problemset/problem/334/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|9|[Candy Bags](http://codeforces.com/problemset/problem/334/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Vasily the Bear and Triangle](http://codeforces.com/problemset/problem/336/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Lunch Rush](http://codeforces.com/problemset/problem/276/A)|Codeforces|1|
