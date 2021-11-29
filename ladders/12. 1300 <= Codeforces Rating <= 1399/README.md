@@ -60,16 +60,16 @@
 |<ul><li>- [X] Done</li></ul>|53|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|54|[Learning Languages](http://codeforces.com/problemset/problem/277/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|55|[The Child and Toy](http://codeforces.com/problemset/problem/437/C)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|56|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|56|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|57|[Find Marble](http://codeforces.com/problemset/problem/285/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|58|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|58|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|59|[Roma and Changing Signs](http://codeforces.com/problemset/problem/262/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|60|[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|61|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|62|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|62|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|63|[Sereja and Array](http://codeforces.com/problemset/problem/315/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
