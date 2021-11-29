@@ -86,7 +86,7 @@
 |<ul><li>- [X] Done</li></ul>|79|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|81|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|82|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
+|<ul><li>- [X] Done</li></ul>|82|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|83|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|84|[Valera and Fruits](http://codeforces.com/problemset/problem/441/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|85|[Fox Dividing Cheese](http://codeforces.com/problemset/problem/371/B)|Codeforces|4|
