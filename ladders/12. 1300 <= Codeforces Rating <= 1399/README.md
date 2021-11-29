@@ -17,9 +17,9 @@
 |<ul><li>- [X] Done</li></ul>|10|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|11|[Vasily the Bear and Triangle](http://codeforces.com/problemset/problem/336/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|12|[Lunch Rush](http://codeforces.com/problemset/problem/276/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|13|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|14|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|13|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|14|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
+|<ul><li>- [X] Done</li></ul>|15|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|17|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|18|[Chips](http://codeforces.com/problemset/problem/92/A)|Codeforces|1|
