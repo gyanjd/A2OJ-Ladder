@@ -26,16 +26,16 @@
 |<ul><li>- [X] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|20|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|21|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [X] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-|<ul><li>- [X] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
+|<ul><li>- [ ] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+|<ul><li>- [ ] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|24|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|25|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|26|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|27|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-|<ul><li>- [X] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
+|<ul><li>- [ ] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|30|[Wizards and Demonstration](http://codeforces.com/problemset/problem/168/A)|Codeforces|2|
-|<ul><li>- [X] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [ ] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
@@ -56,8 +56,8 @@
 |<ul><li>- [ ] Done</li></ul>|49|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|50|[Difference Row](http://codeforces.com/problemset/problem/347/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|51|[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B)|Codeforces|3|
-|<ul><li>- [X] Done</li></ul>|52|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
-|<ul><li>- [X] Done</li></ul>|53|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|52|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|53|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|54|[Learning Languages](http://codeforces.com/problemset/problem/277/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|55|[The Child and Toy](http://codeforces.com/problemset/problem/437/C)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|56|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
@@ -68,8 +68,8 @@
 |<ul><li>- [ ] Done</li></ul>|61|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|62|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|63|[Sereja and Array](http://codeforces.com/problemset/problem/315/B)|Codeforces|3|
-|<ul><li>- [X] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
-|<ul><li>- [X] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
