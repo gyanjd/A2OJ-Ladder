@@ -26,13 +26,13 @@
 |<ul><li>- [X] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|20|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|21|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|24|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|25|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|26|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|27|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|30|[Wizards and Demonstration](http://codeforces.com/problemset/problem/168/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
