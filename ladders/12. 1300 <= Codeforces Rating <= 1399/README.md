@@ -33,20 +33,20 @@
 |<ul><li>- [ ] Done</li></ul>|26|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|27|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|30|[Wizards and Demonstration](http://codeforces.com/problemset/problem/168/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|35|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|36|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|37|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|35|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|36|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|37|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|38|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|39|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|40|[Sum of Digits](http://codeforces.com/problemset/problem/102/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|41|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|42|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|41|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|42|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|43|[Next Test](http://codeforces.com/problemset/problem/27/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|44|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|45|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
