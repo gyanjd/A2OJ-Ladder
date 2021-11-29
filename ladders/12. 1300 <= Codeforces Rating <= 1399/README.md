@@ -26,7 +26,7 @@
 |<ul><li>- [X] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|20|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [X] Done</li></ul>|21|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|22|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|23|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|24|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|25|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
@@ -35,7 +35,7 @@
 |<ul><li>- [ ] Done</li></ul>|28|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|29|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|30|[Wizards and Demonstration](http://codeforces.com/problemset/problem/168/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+|<ul><li>- [X] Done</li></ul>|31|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|32|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [X] Done</li></ul>|34|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
@@ -68,17 +68,17 @@
 |<ul><li>- [ ] Done</li></ul>|61|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
 |<ul><li>- [X] Done</li></ul>|62|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|63|[Sereja and Array](http://codeforces.com/problemset/problem/315/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|69|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|70|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|69|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|70|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|71|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|72|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|73|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|74|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|73|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
+|<ul><li>- [X] Done</li></ul>|74|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|75|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|76|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
